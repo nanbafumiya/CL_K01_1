@@ -5,6 +5,6 @@
 void main(void) {
 	int sum;
 	sum = 15 + 37;
-	printf("15‚É37‚ğ‘«‚µ‚½’l‚Í%d‚Å‚·B \n", sum);
+	printf("15+37=%dB \n", sum);
 	printf("Press any key to continue \n");
 }
