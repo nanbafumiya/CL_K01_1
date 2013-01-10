@@ -1,5 +1,5 @@
-/* 作成者：1T1(28)　難波郁也 */
-/* 課題名：課題01_1　*/
+/* sakuseisyamei：1T1(28)　nanbafumiya */
+/* kadaimei：kadai01_1　*/
 #include <stdio.h>
 
 void main(void) {
