@@ -3,8 +3,9 @@
 #include <stdio.h>
 
 void main(void) {
-	int sum;
-	sum = 15 + 37;
-	printf("15+37=%dB \n", sum);
+	int sum1,sum2;
+	sum1 = 15;
+	sum2 = 37;
+	printf("%d+%d=%dB \n", sum1,sum2,sum1+sum2);
 	printf("Press any key to continue \n");
 }
