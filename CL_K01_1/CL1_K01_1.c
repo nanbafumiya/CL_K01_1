@@ -8,5 +8,5 @@ void main(void) {
 	sum2 = 37;
 	sum3 = sum1 + sum2;
 	printf("%d+%d=%dB \n", sum1,sum2,sum3);
-	printf("Press any key to continue \n");
+
 }
